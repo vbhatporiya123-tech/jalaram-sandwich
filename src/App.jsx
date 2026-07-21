@@ -386,7 +386,7 @@ function App() {
               <ul className="footer-hours">
                 <li>
                   <span>Monday - Sunday</span>
-                  <span>10:00 AM - 11:00 PM</span>
+                  <span>12:30 PM - 11:00 PM</span>
                 </li>
               </ul>
             </div>
@@ -412,14 +412,6 @@ function App() {
                   <span>
                     <a href="tel:+919898108003" className="location-link">
                       +91 9898108003 (Hirenbhai)
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span>Email</span>
-                  <span>
-                    <a href="mailto:hello@jalaramsandwich.com" className="location-link">
-                      hello@jalaramsandwich.com
                     </a>
                   </span>
                 </li>
