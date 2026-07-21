@@ -99,7 +99,7 @@ function App() {
     { id: 405, name: "Basket Pizza", category: "Rimzim", price: "₹160", emoji: "🧺🍕" },
     { id: 406, name: "Casata Roll", category: "Rimzim", price: "₹150", emoji: "🌀🍞" },
     { id: 407, name: "Cheese Anguri", category: "Rimzim", price: "₹160", emoji: "🥪" },
-    { id: 408, name: "Cheesy Multi Grain Sandwich", category: "Rimzim", price: "₹200", emoji: "🥪" },
+    { id: 408, name: "Cheesy Multi", category: "Rimzim", price: "₹200", emoji: "🥪" },
 
     // Burger
     { id: 501, name: "Veg Cheese Burger", category: "Burger", price: "₹60", emoji: "🍔🧀" },
