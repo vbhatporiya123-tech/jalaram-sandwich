@@ -25,7 +25,6 @@ function App() {
       emoji: "🏺🥪✨",
       image: "/grill_sandwich.jpg",
       title: "Paneer Matka Grill Sandwich",
-      description: "A rich, layered sandwich grilled with loaded paneer, fresh chopped vegetables, custom Jalaram chutneys, and baked in our signature Matka style.",
       price: "₹160"
     },
     {
@@ -34,7 +33,6 @@ function App() {
       emoji: "🥪🌀",
       image: "/rimzim_sandwich.jpg",
       title: "Rimzim Sandwich",
-      description: "Our legendary house-special loaded Rimzim sandwich, packed with extra butter, cheese, potatoes, and our special spicy green herb sauce.",
       price: "₹160"
     },
     {
@@ -43,7 +41,6 @@ function App() {
       emoji: "🥪🧀🔥",
       image: "/golmal_sandwich.jpg",
       title: "Golmal Sandwich",
-      description: "The ultimate three-layer grilled creation loaded with shredded cheese, Jalaram masala spices, potatoes, onion, and capsicum.",
       price: "₹320"
     }
   ];
@@ -254,7 +251,6 @@ function App() {
                   <img src={item.image} alt={item.title} className="deal-img" />
                 </div>
                 <h3 className="deal-title">{item.title}</h3>
-                <p className="deal-desc">{item.description}</p>
                 <div className="deal-footer">
                   <div className="deal-price">
                     <span className="price-label">Price</span>
