@@ -41,7 +41,7 @@ function App() {
       id: 3,
       tag: "Mega Feast",
       emoji: "🥪🧀🔥",
-      image: "/jalaram_sandwich.jpg",
+      image: "/golmal_sandwich.jpg",
       title: "Golmal Sandwich",
       description: "The ultimate three-layer grilled creation loaded with shredded cheese, Jalaram masala spices, potatoes, onion, and capsicum.",
       price: "₹320"
