@@ -132,7 +132,7 @@ function App() {
     { id: 801, name: "Cheese Footlong", category: "Footlong", price: "₹140", emoji: "🌭🧀" },
     { id: 802, name: "Cheese Paneer Footlong", category: "Footlong", price: "₹170", emoji: "🌭🧀" },
     { id: 803, name: "Cheese Mayones Footlong", category: "Footlong", price: "₹150", emoji: "🌭🥗" },
-    { id: 804, name: "Tandoor Kulch", category: "Footlong", price: "₹140", emoji: "🫓🔥" }
+    { id: 804, name: "Tandoor Kulcha", category: "Footlong", price: "₹140", emoji: "🫓🔥" }
   ];
 
   // Filtering Logic
